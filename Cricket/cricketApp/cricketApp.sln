@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cricketApp", "cricketApp\cricketApp.csproj", "{59ECDC90-8428-462E-A345-104B0E29E06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59ECDC90-8428-462E-A345-104B0E29E06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ECDC90-8428-462E-A345-104B0E29E06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59ECDC90-8428-462E-A345-104B0E29E06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ECDC90-8428-462E-A345-104B0E29E06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E7F961-7D5D-41F9-888E-58F8558979F9}
+	EndGlobalSection
+EndGlobal
