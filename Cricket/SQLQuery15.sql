@@ -1,5 +1,8 @@
 CREATE DATABASE cricket;
 
+USE cricket;
+Go;
+
 CREATE TABLE country(country_id int primary key identity(1,1),country_name varchar(20),country_continent varchar(20),country_code varchar(5) );
 INSERT INTO country values('India','Asia',+'91');
 INSERT INTO country values('Pakistan','Asia','+92');
@@ -71,7 +74,3 @@ insert into matches values(1,1,2,'India','2022-05-14 19:00:00','yes');
 insert into matches values(3,4,3,'Australia','2022-05-20 19:00:00','yes');
 insert into matches values(4,3,2,'England','2022-05-23 19:00:00','yes');
 
-select * from country;
-select * from player;
-select * from stadium;
-select * from matches;
